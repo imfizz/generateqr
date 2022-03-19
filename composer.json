@@ -1,0 +1,13 @@
+{
+    "name": "payroll/jdtv",
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "endroid/qrcode": "^4.3"
+    },
+    "authors": [
+        {
+            "name": "Francis Ilacad",
+            "email": "filacad22@gmail.com"
+        }
+    ]
+}
